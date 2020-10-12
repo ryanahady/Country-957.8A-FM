@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <track xml:id="track1">
+        <title>Somewhere On A Beach</title>
+        <album>Dierks Bentley Album Black</album>
+        <artist>Dierks Bentley</artist>
+        <genre>Country</genre>
+        <audio>DierksBentley.mp3</audio>
+        <thumbnail>img1large.jpg</thumbnail>   
+    </track>
+    
+    <track xml:id="track2">
+        <title>Die A Happy Man</title>
+        <album>Thomas Rhett Tangled Up</album>
+        <artist>Thomas Rhett</artist>
+        <genre>Country</genre>
+        <audio>ThomasRhett.mp3</audio>
+        <thumbnail>img2large.jpg</thumbnail>   
+    </track>
+        
+    <track xml:id="track3">
+        <title>You Belong With Me</title>
+        <album>Taylor Swift Fearless</album>
+        <artist>Taylor Swift</artist>
+        <genre>Country</genre>
+        <audio>TaylorSwift.mp3</audio>
+        <thumbnail>img3large.jpg</thumbnail>   
+    </track>
+        
+    <track xml:id="track4">
+        <title>Highway Don't Care</title>
+        <album>Tim McGraw Two Lanes of Freedom</album>
+        <artist>Tim McGraw</artist>
+        <genre>Country</genre>
+        <audio>TimMcGraw.mp3</audio>
+        <thumbnail>img4large.jpg</thumbnail>   
+    </track>
+        
+    <track xml:id="track5">
+        <title>Tennessee Whiskey</title>
+        <album>Chris Stapleton Traveller</album>
+        <artist>Chris Stapleton</artist>
+        <genre>Country</genre>
+        <audio>ChrisStapleton.mp3</audio>
+        <thumbnail>img5large.jpg</thumbnail>   
+    </track>    
+</playlist>
